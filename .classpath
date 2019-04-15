@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="/Users/arunbalaji/Downloads/json-20140107 (1).jar"/>
+	<classpathentry kind="lib" path="/Users/arunbalaji/Downloads/json-20140107.jar"/>
+	<classpathentry kind="lib" path="/Users/arunbalaji/Downloads/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="/Users/arunbalaji/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.commons"/>
+			<attribute name="maven.artifactId" value="commons-lang3"/>
+			<attribute name="maven.version" value="3.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/arunbalaji/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar" sourcepath="/Users/arunbalaji/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.commons"/>
+			<attribute name="maven.artifactId" value="commons-lang3"/>
+			<attribute name="maven.version" value="3.7"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
